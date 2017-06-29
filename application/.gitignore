@@ -1,0 +1,5 @@
+*
+!.gitignore
+!controllers\
+!views\
+!models\
