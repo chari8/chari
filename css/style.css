@@ -1,0 +1,18 @@
+.sitename {
+padding:15px 0 15px;
+background-color: #222222;
+}
+
+.sitename a{
+text-align: center;
+font-size: 6em;
+color: #777;
+text-decoration: none;
+}
+
+.sitename a:hover {
+text-decoration: none;
+color: #777;
+}
+
+
